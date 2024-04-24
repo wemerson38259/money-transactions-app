@@ -31,6 +31,14 @@ git remote add origin https://github.com/wemerson38259/shop-next.git
 git branch -M main
 git push -u origin main
 
+## Uploading an existing repository
+
+```
+git add .
+git commit -m "descrition of commit"
+git push origin name_of_branch
+```
+
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
