@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Development website",
+      "amount": 100,
+      "type": "income",
+      "category": "Venda",
+      "createdAt": "2024-04-21T19:13:20.326Z"
+    },
+    {
+      "id": "2",
+      "amount": 15,
+      "description": "Pipoquinha doce",
+      "type": "outcome",
+      "category": "Compra",
+      "createdAt": "2024-04-21T19:14:20.326Z"
+    },
+    {
+      "id": "18ef",
+      "description": "teste",
+      "amount": 123,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-04-23T01:35:43.099Z"
+    },
+    {
+      "id": "9748",
+      "description": "teste 1",
+      "amount": 10,
+      "category": "12",
+      "type": "outcome",
+      "createdAt": "2024-04-23T01:37:08.283Z"
+    },
+    {
+      "id": "d0e2",
+      "description": "Bananinha",
+      "type": "outcome",
+      "amount": 20,
+      "category": "Compra",
+      "createdAt": "2024-04-24T10:50:29.434Z"
+    },
+    {
+      "id": "f4ff",
+      "description": "Pipoca Plink",
+      "type": "outcome",
+      "amount": 12,
+      "category": "Alimentação",
+      "createdAt": "2024-04-24T10:51:09.201Z"
+    },
+    {
+      "id": "9b4c",
+      "description": "Salrario",
+      "type": "income",
+      "amount": 1000,
+      "category": "Salario",
+      "createdAt": "2024-04-24T10:51:21.376Z"
+    }
+  ]
+}
